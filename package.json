@@ -1,0 +1,16 @@
+{
+  "name": "he-thong-thiet-ke-viet",
+  "version": "1.0.0",
+  "description": "Hệ thống thiết kế cho ứng dụng web và di động",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "keywords": [
+    "design-system",
+    "ui-components",
+    "web-design"
+  ],
+  "author": "Tên của bạn",
+  "license": "MIT"
+}
