@@ -6,5 +6,6 @@ module.exports = {
   Textarea: require('./components/Textarea'),
   Tooltip: require('./components/Tooltip'),
   Dropdown: require('./components/Dropdown'),
+  Modal: require('./components/Modal'),
   // Additional components can be added here
 };
