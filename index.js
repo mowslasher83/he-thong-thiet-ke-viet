@@ -1,8 +1,8 @@
 module.exports = {
-  // Add UI components here
+  // UI components
   Button: require('./components/Button'),
+  Checkbox: require('./components/Checkbox'),
   Input: require('./components/Input'),
   Textarea: require('./components/Textarea'),
-  Checkbox: require('./components/Checkbox'),
   // ...
 };
