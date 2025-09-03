@@ -5,5 +5,5 @@ module.exports = {
   Input: require('./components/Input'),
   Textarea: require('./components/Textarea'),
   Tooltip: require('./components/Tooltip'),
-  // ...
+  // Additional components can be added here
 };
