@@ -1,5 +1,5 @@
 module.exports = {
-  // Thêm các thành phần UI ở đây
+  // Add UI components here
   Button: require('./components/Button'),
   Input: require('./components/Input'),
   Textarea: require('./components/Textarea'),
