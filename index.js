@@ -4,5 +4,6 @@ module.exports = {
   Checkbox: require('./components/Checkbox'),
   Input: require('./components/Input'),
   Textarea: require('./components/Textarea'),
+  Tooltip: require('./components/Tooltip'),
   // ...
 };
